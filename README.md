@@ -1,4 +1,4 @@
-# Securityalarm
+# Exammonitor
 
 A simple security camera with motion detection technique.
 
